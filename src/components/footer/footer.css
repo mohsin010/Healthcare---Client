@@ -1,0 +1,20 @@
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    margin-top: auto;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+.footer-btn:hover {
+    background-color: #d2d9d9 !important;
+    color: white;
+    border: 4;
+    border-color: #00cedd;
+}
+
+.font-white- {
+    color: white !important;
+}

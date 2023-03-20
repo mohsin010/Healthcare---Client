@@ -1,0 +1,9 @@
+.font-white {
+    color: white !important;
+}
+.pro-img{
+    /* border: 1px black; */
+    padding: 2px;
+    background-color: white;
+    border-radius: 27px
+}
